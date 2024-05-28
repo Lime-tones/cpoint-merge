@@ -22,7 +22,7 @@ from typing import Optional, Union, Literal, Dict, cast
 
 from diffusers import (
     AutoencoderKL,
-    StableDiffusionXLPipeline,
+    #StableDiffusionXLPipeline,
     StableDiffusionPipeline,
     DPMSolverMultistepScheduler,
     DPMSolverSinglestepScheduler,
